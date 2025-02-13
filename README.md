@@ -4,17 +4,17 @@
 This is a **Flask-based API** that reads a configuration file (`config.ini`), stores it in an **SQLite database**, and serves it via an API endpoint. It allows users to fetch the stored configuration details in JSON format.
 
 ## 📚 Table of Contents
-1. [⚙️ Prerequisites](#prerequisites)
-2. [📅 Installation Instructions](#installation-instructions)
-3. [🖊 Usage Instructions](#usage-instructions)
-4. [🔧 Configuration](#configuration)
-5. [🚀 CI/CD Pipeline Details](#cicd-pipeline-details)
-6. [🔒 Security Best Practices](#security-best-practices)
-7. [🐞 Troubleshooting](#troubleshooting)
-8. [🤝 Contribution Guidelines](#contribution-guidelines)
-9. [📜 License](#license)
-10. [📸 Screenshots & Architecture Diagrams](#screenshots--architecture-diagrams)
-11. [📅 Changelog](#changelog)
+1. [⚙️ Prerequisites](https://github.com/Jidendiran-coder/Config_File_Manager_Python#%EF%B8%8F-prerequisites)
+2. [📅 Installation Instructions](https://github.com/Jidendiran-coder/Config_File_Manager_Python#-installation-instructions)
+3. [🖊 Usage Instructions](https://github.com/Jidendiran-coder/Config_File_Manager_Python#-usage-instructions)
+4. [🔧 Configuration](https://github.com/Jidendiran-coder/Config_File_Manager_Python#-configuration)
+5. [🚀 CI/CD Pipeline Details](https://github.com/Jidendiran-coder/Config_File_Manager_Python#-cicd-pipeline-details)
+6. [🔒 Security Best Practices](https://github.com/Jidendiran-coder/Config_File_Manager_Python#-security-best-practices)
+7. [🐞 Troubleshooting](https://github.com/Jidendiran-coder/Config_File_Manager_Python#-troubleshooting)
+8. [🤝 Contribution Guidelines](https://github.com/Jidendiran-coder/Config_File_Manager_Python#-contribution-guidelines)
+9. [📜 License](https://github.com/Jidendiran-coder/Config_File_Manager_Python#-license)
+10. [📸 Screenshots & Architecture Diagrams](https://github.com/Jidendiran-coder/Config_File_Manager_Python#-screenshots--architecture-diagrams)
+11. [📅 Changelog](https://github.com/Jidendiran-coder/Config_File_Manager_Python#-changelog)
 
 ## ⚙️ Prerequisites
 - 🐳 Python 3.x installed

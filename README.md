@@ -85,8 +85,11 @@ port = 8080
 ## 📜 License
 This project is licensed under the MIT License.
 
-## 📸 Screenshots & Architecture Diagrams
+## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/0c3c5f5c-584d-4a01-b2f5-6daf3ad50607)
+From Browser
+
+![image](https://github.com/user-attachments/assets/0d1a931e-412d-4aca-ae31-dbcc769189e3)
 
 ## 📅 Changelog
 - **v1.0** - Initial release with configuration parsing & API.

@@ -86,7 +86,7 @@ port = 8080
 This project is licensed under the MIT License.
 
 ## 📸 Screenshots & Architecture Diagrams
-![API Workflow](screenshot.png)
+![image](https://github.com/user-attachments/assets/0c3c5f5c-584d-4a01-b2f5-6daf3ad50607)
 
 ## 📅 Changelog
 - **v1.0** - Initial release with configuration parsing & API.

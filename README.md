@@ -26,11 +26,11 @@ This is a **Flask-based API** that reads a configuration file (`config.ini`), st
 ## 📅 Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/config-manager-api.git
+   git clone https://github.com/Jidendiran-coder/Config_File_Manager_Python.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd config-manager-api
+   cd Config_File_Manager_Python
    ```
 3. Install dependencies:
    ```bash

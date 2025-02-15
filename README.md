@@ -32,10 +32,6 @@ This is a **Flask-based API** that reads a configuration file (`config.ini`), st
    ```bash
    cd Config_File_Manager_Python
    ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## 🖊 Usage Instructions
 1. Place your `config.ini` file inside the project directory.

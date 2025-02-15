@@ -34,10 +34,10 @@ This is a **Flask-based API** that reads a configuration file (`config.ini`), st
    ```
 
 ## 🖊 Usage Instructions
-1. Place your `config.ini` file inside the project directory.
+1. With the `config.ini` file inside the project directory.
 2. Run the script:
    ```bash
-   python app.py
+   python Config_file_Manager.py
    ```
 3. Access the API via:
    ```bash
@@ -75,6 +75,7 @@ port = 8080
 - If the API doesn’t start, check for **port conflicts**.
 
 ## 🤝 Contribution Guidelines
+- ⭐ Star the repository.
 - 🔄 Fork the repository.
 - 🚀 Submit a pull request with your changes.
 
